@@ -10,6 +10,18 @@ We follow CRoss Industry Standard Process (CRISP) for predictive modeling.
 
 ### 2. Data Tranformation
           -  Categorical(factor) to Numerical Values using Encoding Techniques
+              - Replacing Values
+              - Label Encoding
+              - One Hot Encoding
+              - Binary Encoding
+              - Backward difference Encoding
+              - Misc features
+          - Normalization
+              - min-max
+              - Z score
+          - Scaling Data, handling skewness, aggregation of attribute values
+              - Scale()
+              - skewness()
           
 ### 3. Data Understanding - Descriptive Statistics
           - Check for any Null values
